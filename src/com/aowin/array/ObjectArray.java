@@ -17,5 +17,5 @@ public class ObjectArray {
 		System.out.println("平均成绩为：");
 		System.out.println(avg);
 	}
-
+	//test
 }
